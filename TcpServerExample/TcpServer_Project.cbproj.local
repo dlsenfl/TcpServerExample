@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.203,C:\project\Src\TcpServerExample\Unit1.cpp=C:\project\Src\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.203,C:\project\Src\TcpServerExample\Unit1.dfm=C:\project\Src\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.203,C:\project\Src\TcpServerExample\Unit1.h=C:\project\Src\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.697,C:\project\Src\TcpServerExample\Project1.cbproj=C:\project\Src\Project1.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.014,=C:\project\Src\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.480,=C:\project\Src\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.865,C:\project\Src\TcpServerExample\Project1PCH1.h=C:\project\Src\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.464,=C:\project\Src\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.039,=C:\project\Src\Unit1.cpp</Transaction>
+    <Transaction>2019-01-03 15:42:44.309,C:\project\Src\TcpServerExample\TcpServer_ProjectPCH1.h=C:\project\Src\TcpServerExample\Project1PCH1.h</Transaction>
+    <Transaction>2019-01-03 15:42:44.323,C:\project\Src\TcpServerExample\TcpServer_Project.cbproj=C:\project\Src\TcpServerExample\Project1.cbproj</Transaction>
+    <Transaction>2019-01-03 15:45:11.657,C:\project\Src\TcpServerExample\MainU.h=C:\project\Src\TcpServerExample\Unit1.h</Transaction>
+    <Transaction>2019-01-03 15:45:11.657,C:\project\Src\TcpServerExample\MainU.dfm=C:\project\Src\TcpServerExample\Unit1.dfm</Transaction>
+    <Transaction>2019-01-03 15:45:11.657,C:\project\Src\TcpServerExample\MainU.cpp=C:\project\Src\TcpServerExample\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
