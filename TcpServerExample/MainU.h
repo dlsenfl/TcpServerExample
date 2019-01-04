@@ -53,6 +53,24 @@ __published:	// IDE-managed Components
 	TLabel *lbEtc;
 	TLabel *lbEtcValue;
 	TPanel *Panel3;
+	TRadioGroup *rdOuterLampRun;
+	TPanel *Panel4;
+	TLabel *lbFanRunTemperature;
+	TLabel *lbFanRunTemperatureValue;
+	TLabel *lbEtc1Value;
+	TLabel *lbEtc1;
+	TLabel *rdHeaterRunTemperature;
+	TLabel *rdHeaterRunTemperatureValue;
+	TLabel *lbBlinkCircle;
+	TLabel *lbBlinkCircleValue;
+	TLabel *lbLampRunBrightValue;
+	TLabel *lbLampRunBright;
+	TLabel *lbScinarioTransTimeValue;
+	TLabel *lbScinarioTransTime;
+	TRadioGroup *rdDisplayBright;
+	TRadioGroup *rdPowerControlMode;
+	TRadioGroup *rdFanRunMode;
+	TRadioGroup *rdHeaterRunMode;
 
 private:	// User declarations
 public:		// User declarations
